@@ -1,0 +1,1 @@
+Olá, esse projeto de Relógio Digital foi feito para que você possa analizar e ultilizar ele como base para o seu !
